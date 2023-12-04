@@ -37,7 +37,7 @@ Make sure you have the following installed on your machine:
    
    npm install or yarn
 
-## Usage
+### Usage
  
 1. Start the development server:
 
@@ -49,13 +49,13 @@ Make sure you have the following installed on your machine:
 
 3. You should see the video chat app running.
 
-## Technologies Used
+### Technologies Used
  
-   React
-   WebRTC
-   Material-UI
+  - React
+  - WebRTC
+  - Material-UI
    
-## Contributing
+### Contributing
   
   Feel free to contribute to this project. Open an issue or submit a pull request with your improvements.
 
