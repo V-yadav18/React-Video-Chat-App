@@ -31,7 +31,7 @@ Make sure you have the following installed on your machine:
    
 2. Navigate to the project directory:
 
-   cd client/
+   cd client
 
 3. Install dependencies:
    
@@ -41,7 +41,7 @@ Make sure you have the following installed on your machine:
  
 1. Start the development server:
 
-``` npm start``` or ```yaen start```
+``` npm start``` or ```yarn start```
 
 2. Open your browser and visit
 
