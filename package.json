@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
- "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-   
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npm run start",
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "Vikas",
