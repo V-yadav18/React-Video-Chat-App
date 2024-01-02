@@ -49,6 +49,12 @@ Make sure you have the following installed on your machine:
 
 3. You should see the video chat app running.
 
+4. Make sure your server is running to work properly.
+
+   ``` node index.js ```
+
+   http://localhost:5000
+
 ### Technologies Used
  
   - React
