@@ -2,9 +2,8 @@
   "name": "webrtc-react-video-chat-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "npm run start",
     "build": "npm run build"
   },
   "keywords": [],
